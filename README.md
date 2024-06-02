@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here] (https://github.com/Blanchevalen/News_homepage_frontendmentor)
-- Live Site URL: [Add live site URL here](https://blanchevalen.github.io/News_homepage_frontendmentor/)
+- Solution URL: [Add solution URL here] (https://github.com/Blanchevalen/Blog_preview_card/)
+- Live Site URL: [Add live site URL here](https://blanchevalen.github.io/Blog_preview_card/)
 
 ## My process
 
