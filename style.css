@@ -90,6 +90,7 @@ align-items: center;}
     body {
       max-width: 90%; /* Allow body to fill the width */
       justify-self: center;
+        margin-top:12rem;
     }
     header img{
         max-width: 95%;
